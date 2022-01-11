@@ -1,9 +1,5 @@
 ### Olá! Sou Raiane Honorato 👋
 
-- 🔭 Hoje trabalho como product manager
-- 🌱 Estudo desenvolvimento full stack
-- 😄 Pronomes: Ela/dela
-
  <div>
   <a href="https://github.com/raiane-honorato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raiane-honorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
